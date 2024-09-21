@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f15db3426ec01745a8162d5aa3aea9e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228567
+  packageName: Simple Blur - URP
+  packageVersion: 1.1.8
+  assetPath: Assets/Isle of Assets/Simple Blur - URP/Demo/Materials/Cubes/GreenCube.mat
+  uploadId: 595574

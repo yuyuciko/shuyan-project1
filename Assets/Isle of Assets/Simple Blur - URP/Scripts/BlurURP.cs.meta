@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 52e2e32e102e44abeb72209e7ce030c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228567
+  packageName: Simple Blur - URP
+  packageVersion: 1.1.8
+  assetPath: Assets/Isle of Assets/Simple Blur - URP/Scripts/BlurURP.cs
+  uploadId: 595574

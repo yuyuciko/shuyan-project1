@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff0fb040ddd313e45b7338f473b6a7dd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228567
+  packageName: Simple Blur - URP
+  packageVersion: 1.1.8
+  assetPath: Assets/Isle of Assets/Simple Blur - URP/Demo/Scenes/3D Blur/LightingData.asset
+  uploadId: 595574

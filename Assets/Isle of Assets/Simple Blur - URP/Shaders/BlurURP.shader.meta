@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 926e401a0e7844c458d7718d5b298a2c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228567
+  packageName: Simple Blur - URP
+  packageVersion: 1.1.8
+  assetPath: Assets/Isle of Assets/Simple Blur - URP/Shaders/BlurURP.shader
+  uploadId: 595574

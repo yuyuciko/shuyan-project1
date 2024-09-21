@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0803c079a9cd0314eb65bb7169b9cd48
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228567
+  packageName: Simple Blur - URP
+  packageVersion: 1.1.8
+  assetPath: Assets/Isle of Assets/Simple Blur - URP/Demo/Settings/UniversalRenderPipelineAsset_Renderer.asset
+  uploadId: 595574

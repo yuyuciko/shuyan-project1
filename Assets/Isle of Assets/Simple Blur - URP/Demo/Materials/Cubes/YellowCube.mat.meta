@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9e1aacfd1be9a843bbc64ab0cb6ad67
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228567
+  packageName: Simple Blur - URP
+  packageVersion: 1.1.8
+  assetPath: Assets/Isle of Assets/Simple Blur - URP/Demo/Materials/Cubes/YellowCube.mat
+  uploadId: 595574

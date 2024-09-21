@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a00afda211f274f6ca6cce958e4e13a5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228567
+  packageName: Simple Blur - URP
+  packageVersion: 1.1.8
+  assetPath: Assets/Isle of Assets/Simple Blur - URP/Materials/BlurMat.mat
+  uploadId: 595574

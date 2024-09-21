@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8bce93cade5e0b549a7de07b93b19931
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228567
+  packageName: Simple Blur - URP
+  packageVersion: 1.1.8
+  assetPath: Assets/Isle of Assets/Simple Blur - URP/Demo/Scenes/UI Blur/OcclusionCullingData.asset
+  uploadId: 595574

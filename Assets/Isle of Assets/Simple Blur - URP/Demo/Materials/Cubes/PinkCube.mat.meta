@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c994a1780995dcb4fae85d32becbbf56
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228567
+  packageName: Simple Blur - URP
+  packageVersion: 1.1.8
+  assetPath: Assets/Isle of Assets/Simple Blur - URP/Demo/Materials/Cubes/PinkCube.mat
+  uploadId: 595574
