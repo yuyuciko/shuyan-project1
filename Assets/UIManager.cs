@@ -73,7 +73,7 @@ public class UIManager : MonoBehaviour
 
         int offest = imgs.Count / 2;
 
-        for (int index = 4; index > 0; index--)
+        for (int index = 4; index > 1; index--)
         {
             imgs[index].transform.parent.transform.DOMove(imgs[index - 1].transform.parent.transform.position, 1f);
 
