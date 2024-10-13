@@ -5,6 +5,8 @@ using UnityEngine;
 using DG.Tweening;
 using Unity.VisualScripting;
 using System;
+using LeTai.Asset.TranslucentImage;
+
 public class UIManager : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -13,7 +15,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] GameObject perfab;
     [SerializeField] GameObject Panel;
 
-    public List<Image> imgs = new List<Image>();
+    public List<TranslucentImage> imgs = new List<TranslucentImage>();
 
     [Header("×óÓÒ¼ä¾à")]
     [SerializeField] float spaceX = 100f;
@@ -26,7 +28,7 @@ public class UIManager : MonoBehaviour
 
         for (int i = 0; i < 5; i++)
         {
-            Image img = Instantiate(perfab, Panel.transform).GetComponentInChildren<Image>();
+            TranslucentImage img = Instantiate(perfab, Panel.transform).GetComponentInChildren<TranslucentImage>();
             img.sprite = sprs[i];
             imgs.Add(img);
         }
@@ -53,7 +55,7 @@ public class UIManager : MonoBehaviour
     public void GoToNext(int i)
     {
         //Éú³É
-        Image newImg = Instantiate(perfab, Panel.transform).GetComponentInChildren<Image>();
+        TranslucentImage newImg = Instantiate(perfab, Panel.transform).GetComponentInChildren<TranslucentImage>();
         newImg.sprite = sprs[i];
 
         newImg.transform.parent.transform.DOMove(imgs[imgs.Count - 1].transform.parent.transform.position, 1f);
